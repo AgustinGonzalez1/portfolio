@@ -5,4 +5,13 @@
 
 * {
 	font-family: "Montserrat", sans-serif;
+	scroll-behavior: smooth;
+}
+
+.hero-title {
+	text-shadow: 10px 10px 20px black; /* Apply shadow directly using text-shadow */
+}
+
+.contain-shadow {
+	box-shadow: 10px 10px 20px black; /* Apply shadow directly using text-shadow */
 }
