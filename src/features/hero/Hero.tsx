@@ -1,6 +1,6 @@
 const Hero = () => {
 	return (
-		<section id="hero" className="h-screen mx-[70px]  flex justify-center items-center">
+		<header id="hero" className="h-screen mx-[70px]  flex justify-center items-center">
 			<div className="font-bold">
 				<div className="flex justify-start ml-20 text-light">
 					<p>I AM</p>
@@ -13,7 +13,7 @@ const Hero = () => {
 					<p>MERN</p>
 				</div>
 			</div>
-		</section>
+		</header>
 	);
 };
 

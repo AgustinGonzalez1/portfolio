@@ -51,6 +51,9 @@ const technologies: Technology[] = [
 	{
 		name: "Firebase",
 	},
+	{
+		name: "Material UI",
+	},
 ];
 
 export default technologies;
