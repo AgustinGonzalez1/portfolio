@@ -12,12 +12,12 @@ const projects: Project[] = [
 	},
 	{
 		title: "Proyecto Final de JavaScript 1",
-		img: "/img_projects/javaScriptn1.jpg",
+		img: "/img_projects/JavaScriptn1.jpg",
 		link: "https://tienda-el-clima.netlify.app/",
 	},
 	{
 		title: "Proyecto Final de JavaScript 2",
-		img: "/img_projects/javaScriptn2.jpg",
+		img: "/img_projects/JavaScriptn2.jpg",
 		link: "https://el-clima-app.netlify.app/",
 	},
 	{
