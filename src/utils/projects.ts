@@ -7,12 +7,12 @@ export interface Project {
 const projects: Project[] = [
 	{
 		title: "Proyecto Final de Desarrollo Web",
-		img: "/public/img_projects/guaridaGamer.jpg",
+		img: "/img_projects/guaridaGamer.jpg",
 		link: "https://guarida-gamer.netlify.app/",
 	},
 	{
 		title: "Proyecto Final de JavaScript 1",
-		img: "/public/img_projects/javaScriptn1.jpg",
+		img: "public/img_projects/javaScriptn1.jpg",
 		link: "https://tienda-el-clima.netlify.app/",
 	},
 	{
