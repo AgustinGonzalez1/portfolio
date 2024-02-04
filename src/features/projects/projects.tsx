@@ -14,7 +14,11 @@ const Projects = () => {
 							<img src={project.img} alt="" className="contain-shadow" />
 						</div>
 						<h4 className="text-xl font-bold text-text">{project.title}</h4>
-						<Link to={project.link} className="flex items-center gap-1 text-red-500 hover:text-text">
+						<Link
+							to={project.link}
+							className="flex items-center gap-1 text-red-500 hover:text-text"
+							rel="noreferrer noopener"
+							target="_blank">
 							<p className="font-bold">see more</p> <FaAngleRight />
 						</Link>
 					</article>
