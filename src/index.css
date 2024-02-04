@@ -13,5 +13,5 @@
 }
 
 .contain-shadow {
-	box-shadow: 10px 10px 20px black; /* Apply shadow directly using text-shadow */
+	box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5); /* Apply shadow directly using text-shadow */
 }

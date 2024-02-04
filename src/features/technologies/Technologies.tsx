@@ -8,7 +8,7 @@ const Technologies = () => {
 			<div className="flex flex-wrap w-full gap-5 justify-center">
 				{technologies.map(
 					(technology: Technology, index: number): JSX.Element => (
-						<div key={index} className="border-2 rounded-md contain-shadow">
+						<div key={index} className="border-[1px] border-red-500 rounded-md contain-shadow bg-[#1e1e1e]">
 							<p className="font-bold text-text py-2 px-4 text-lg">{technology.name}</p>
 						</div>
 					)

@@ -7,13 +7,13 @@ const Navbar = () => {
 				</a>
 				<ul className="flex gap-14 text-text items-center font-medium tracking-wide">
 					<li className="hover:text-primary">
-						<a href="#technologies" className="hover:text-red-500">
-							TECHNOLOGIES
+						<a href="#projects" className="hover:text-red-500">
+							PROJECTS
 						</a>
 					</li>
 					<li className="hover:text-primary">
-						<a href="#projects" className="hover:text-red-500">
-							PROJECTS
+						<a href="#technologies" className="hover:text-red-500">
+							TECHNOLOGIES
 						</a>
 					</li>
 				</ul>
