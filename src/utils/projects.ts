@@ -41,7 +41,7 @@ const projects: Project[] = [
 		link: "https://corona-ecommerce.vercel.app/",
 	},
 	{
-		title: "Rastrea Patitas",
+		title: "Rastrea Patitas - NoCountry",
 		img: "/img_projects/rastreaPatitas.jpg",
 		link: "https://rastreapatitas.vercel.app/",
 	},
